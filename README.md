@@ -8,7 +8,7 @@ A portfolio of electrical drafting, schematic design, and infrastructure single-
 
 ### 1. Commercial Facility Power Distribution & ATS Switchboard (SLD)
 
-* **Directory:** [./01-commercial-power-distribution-sld](./01-commercial-power-distribution-sld)
+* **Directory:** [01-commercial emergency ATS SLD](./01-commercial%20emergency%20ATS%20SLD)
 * **Focus:** Low-voltage distribution, dual-source power switching, overcurrent protection, emergency loads.
 
 #### System Architecture Overview
