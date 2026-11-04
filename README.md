@@ -36,4 +36,4 @@ A portfolio of electrical drafting, schematic design, and infrastructure single-
 
 **Julio Tito**  
 B.S. Electrical & Computer Engineering | Rutgers University  
-[LinkedIn Profile](https://linkedin.com) • [Portfolio](https://github.com)
+[LinkedIn Profile]([https://linkedin.com](https://www.linkedin.com/in/juliotito/)) • [Portfolio]([https://github.com](https://github.com/JulioxTito))
