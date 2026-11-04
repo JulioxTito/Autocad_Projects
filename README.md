@@ -6,9 +6,7 @@ A collection of 2D computer-aided design (CAD) drawings and electrical system sc
 
 ## Featured Projects
 
-### 1. Commercial Facility Power Distribution & ATS Switchboard (SLD)
-* **Directory:** [`/facility-power-distribution-sld`](./facility-power-distribution-sld)
-* **Focus:** Low-voltage distribution, dual-source power switching, overcurrent protection, emergency loads.
+* **Directory:** [./01-commercial-power-distribution-sld](./01-commercial-power-distribution-sld)
 
 #### System Architecture Overview
 * **Dual Power Sources:** Primary utility entrance coupled with an emergency standby Diesel Generator (DG) supply via a 400A 4-pole bus coupler.
